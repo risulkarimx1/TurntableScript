@@ -1,0 +1,13 @@
+First, import Cinemachine into your package manager
+
+You can do it from asset store by searching Cinemachine or get it from 
+Window>Package Manager.. Click Advanced and Select "Show Preview Packages", search Cinemachine and Click install.
+
+After importing
+
+1. Drag CinemachineFreelook prefab to scene from this project
+2. Drag CinemachineBrainCamera to scene from this project
+3. Assign your object in Follow and LookAt field of CinemachineFreelookCamera 
+
+You can follow this tutorial for better understanding of CinemachineFreelookCamera feature
+https://www.youtube.com/watch?v=x6Q5sKXjZOM&list=PLX2vGYjWbI0TQpl4JdfEDNO1xK_I34y8P&index=1
